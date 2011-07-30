@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{51519EDC-F904-4AC7-9E6F-EC9681ED93B9}</ProjectGuid>
+    <ProjectGuid>{F6469BEF-3150-4024-8976-A98B4DF83AD6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>nn_simple</RootNamespace>
-    <AssemblyName>nn-simple</AssemblyName>
+    <RootNamespace>nn_simple.tests</RootNamespace>
+    <AssemblyName>nn-simple.tests</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -31,6 +31,16 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Moq">
+      <HintPath>..\libs\Moq.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework, Version=2.5.10.11092, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\libs\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpTestsEx">
+      <HintPath>..\libs\SharpTestsEx.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -40,19 +50,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Layer\ILayer.cs" />
-    <Compile Include="Layer\LayerTypeEnum.cs" />
-    <Compile Include="Network\INetwork.cs" />
-    <Compile Include="Network\Network.cs" />
-    <Compile Include="Neuron\INeuralBias.cs" />
-    <Compile Include="Neuron\INeuralImput.cs" />
-    <Compile Include="Neuron\INeuralSignal.cs" />
-    <Compile Include="Neuron\INeuralSignalWeight.cs" />
-    <Compile Include="Neuron\INeuron.cs" />
-    <Compile Include="Neuron\Neuron.cs" />
+    <Compile Include="NetworkTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\nn-simple\nn-simple.csproj">
+      <Project>{51519EDC-F904-4AC7-9E6F-EC9681ED93B9}</Project>
+      <Name>nn-simple</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

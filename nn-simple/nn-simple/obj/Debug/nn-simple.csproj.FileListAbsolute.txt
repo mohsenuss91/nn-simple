@@ -1,0 +1,5 @@
+E:\codigo\nn-simple\nn-simple\nn-simple\bin\Debug\nn-simple.dll
+E:\codigo\nn-simple\nn-simple\nn-simple\bin\Debug\nn-simple.pdb
+E:\codigo\nn-simple\nn-simple\nn-simple\obj\Debug\ResolveAssemblyReference.cache
+E:\codigo\nn-simple\nn-simple\nn-simple\obj\Debug\nn-simple.dll
+E:\codigo\nn-simple\nn-simple\nn-simple\obj\Debug\nn-simple.pdb

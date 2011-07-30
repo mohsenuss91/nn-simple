@@ -7,8 +7,51 @@
     </boolean>
   </SettingsComponent>
   <RecentFiles>
-    <RecentFiles />
-    <RecentEdits />
+    <RecentFiles>
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Layer/f:LayerTypeEnum.cs" caret="147" fromTop="7" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Network/f:INetwork.cs" caret="361" fromTop="14" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Layer/f:ILayer.cs" caret="176" fromTop="9" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Network/f:Network.cs" caret="1085" fromTop="17" />
+      <File id="F6469BEF-3150-4024-8976-A98B4DF83AD6/f:NetworkTests.cs" caret="2330" fromTop="17" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:INeuralSignal.cs" caret="46" fromTop="4" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:INeuralSignalWeight.cs" caret="119" fromTop="6" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:INeuralImput.cs" caret="97" fromTop="4" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:INeuralBias.cs" caret="149" fromTop="7" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:INeuron.cs" caret="299" fromTop="11" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:Neuron.cs" caret="424" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F6469BEF-3150-4024-8976-A98B4DF83AD6/f:NetworkTests.cs" caret="0" fromTop="0" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Layer/f:ILayer.cs" caret="245" fromTop="10" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Layer/f:LayerTypeEnum.cs" caret="173" fromTop="7" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Layer/f:ILayer.cs" caret="221" fromTop="10" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Network/f:Network.cs" caret="543" fromTop="14" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Network/f:Network.cs" caret="326" fromTop="8" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Network/f:INetwork.cs" caret="361" fromTop="14" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Network/f:Network.cs" caret="172" fromTop="4" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Network/f:Network.cs" caret="629" fromTop="12" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Network/f:Network.cs" caret="1133" fromTop="17" />
+      <File id="F6469BEF-3150-4024-8976-A98B4DF83AD6/f:NetworkTests.cs" caret="1625" fromTop="10" />
+      <File id="F6469BEF-3150-4024-8976-A98B4DF83AD6/f:NetworkTests.cs" caret="1973" fromTop="15" />
+      <File id="F6469BEF-3150-4024-8976-A98B4DF83AD6/f:NetworkTests.cs" caret="2339" fromTop="17" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:INeuralSignal.cs" caret="0" fromTop="0" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:INeuralSignal.cs" caret="125" fromTop="9" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:INeuralSignalWeight.cs" caret="0" fromTop="0" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:INeuralSignalWeight.cs" caret="82" fromTop="5" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:INeuralSignal.cs" caret="46" fromTop="4" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:INeuron.cs" caret="301" fromTop="9" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:INeuralImput.cs" caret="186" fromTop="9" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:INeuralImput.cs" caret="33" fromTop="0" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:INeuralSignalWeight.cs" caret="119" fromTop="6" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:INeuralBias.cs" caret="0" fromTop="0" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:INeuralBias.cs" caret="179" fromTop="8" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:INeuralBias.cs" caret="95" fromTop="6" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:Neuron.cs" caret="152" fromTop="7" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:Neuron.cs" caret="8" fromTop="0" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:INeuron.cs" caret="251" fromTop="9" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:Neuron.cs" caret="142" fromTop="7" />
+      <File id="51519EDC-F904-4AC7-9E6F-EC9681ED93B9/d:Neuron/f:Neuron.cs" caret="364" fromTop="10" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
@@ -20,4 +63,115 @@
     <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="3" />
+      <Item value="var" priority="6" />
+      <Item value="network" priority="2" />
+      <Item value="void" priority="5" />
+      <Item value="INetwork`0" priority="0" />
+      <Item value="nn_simple" priority="0" />
+      <Item value="Network" priority="1" />
+      <Item value="Network`0" priority="2" />
+      <Item value="enum" priority="0" />
+      <Item value="LayerType`0" priority="1" />
+      <Item value="prop" priority="0" />
+      <Item value="new" priority="7" />
+      <Item value="Mock" priority="4" />
+      <Item value="inputLayer" priority="1" />
+      <Item value="Input" priority="2" />
+      <Item value="hiddenLayer" priority="1" />
+      <Item value="Hidden" priority="0" />
+      <Item value="ILayer`0" priority="2" />
+      <Item value="outputLayer" priority="1" />
+      <Item value="Output" priority="0" />
+      <Item value="Layers" priority="4" />
+      <Item value="Layer" priority="2" />
+      <Item value="layers" priority="0" />
+      <Item value="IList" priority="0" />
+      <Item value="layer" priority="0" />
+      <Item value="List&lt;ILayer&gt;" priority="0" />
+      <Item value="inputLayer1" priority="1" />
+      <Item value="inputLayer2" priority="0" />
+      <Item value="Executing`0" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="Queue`0" priority="0" />
+      <Item value="as" priority="1" />
+      <Item value="from" priority="0" />
+      <Item value="select" priority="0" />
+      <Item value="where" priority="0" />
+      <Item value="p" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="input" priority="1" />
+      <Item value="output" priority="0" />
+      <Item value="throw" priority="0" />
+      <Item value="ApplicationException" priority="0" />
+      <Item value="double" priority="5" />
+      <Item value="INeuralSignal`0" priority="1" />
+      <Item value="INeuralSignalWeight`0" priority="1" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="IDictionary" priority="0" />
+      <Item value="INeuralImput`0" priority="0" />
+      <Item value="Func" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Mock`1">
+      <Item value="Object" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:nn_simple.Layer.ILayer">
+      <Item value="Type" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="AddRange`0" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:nn_simple.Network.Network">
+      <Item value="Layers" priority="0" />
+      <Item value="AddLayer`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="Should`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SharpTestsEx.IComparableConstraints`1">
+      <Item value="Be" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SharpTestsEx.IComparableBeConstraints`1">
+      <Item value="Equals`0" priority="0" />
+      <Item value="EqualTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SharpTestsEx.Executing">
+      <Item value="This`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Action">
+      <Item value="Should`0" priority="1" />
+      <Item value="Satisfy`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SharpTestsEx.IActionConstraints">
+      <Item value="Throw`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@nn_simple.Layer.LayerType">
+      <Item value="Output" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Count`1" priority="2" />
+      <Item value="Concat`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SharpTestsEx.IActionAndConstraints`2">
+      <Item value="Exception" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ApplicationException">
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Should`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SharpTestsEx.IStringConstraints">
+      <Item value="Be" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SharpTestsEx.IStringBeConstraints">
+      <Item value="EqualTo`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

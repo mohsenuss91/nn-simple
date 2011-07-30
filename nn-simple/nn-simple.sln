@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nn-simple", "nn-simple\nn-simple.csproj", "{51519EDC-F904-4AC7-9E6F-EC9681ED93B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nn-simple.tests", "nn-simple.tests\nn-simple.tests.csproj", "{F6469BEF-3150-4024-8976-A98B4DF83AD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{51519EDC-F904-4AC7-9E6F-EC9681ED93B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51519EDC-F904-4AC7-9E6F-EC9681ED93B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51519EDC-F904-4AC7-9E6F-EC9681ED93B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6469BEF-3150-4024-8976-A98B4DF83AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6469BEF-3150-4024-8976-A98B4DF83AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6469BEF-3150-4024-8976-A98B4DF83AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6469BEF-3150-4024-8976-A98B4DF83AD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
