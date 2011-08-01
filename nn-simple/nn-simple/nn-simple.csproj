@@ -41,16 +41,27 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Layer\ILayer.cs" />
+    <Compile Include="Layer\ILayerFactory.cs" />
+    <Compile Include="Layer\Layer.cs" />
+    <Compile Include="Layer\LayerExtensions.cs" />
+    <Compile Include="Layer\LayerFactory.cs" />
     <Compile Include="Layer\LayerTypeEnum.cs" />
     <Compile Include="Network\INetwork.cs" />
+    <Compile Include="Network\ITarget.cs" />
     <Compile Include="Network\Network.cs" />
+    <Compile Include="Network\Target.cs" />
     <Compile Include="Neuron\INeuralBias.cs" />
     <Compile Include="Neuron\INeuralImput.cs" />
     <Compile Include="Neuron\INeuralSignal.cs" />
     <Compile Include="Neuron\INeuralSignalWeight.cs" />
     <Compile Include="Neuron\INeuron.cs" />
+    <Compile Include="Neuron\INeuronFactory.cs" />
     <Compile Include="Neuron\Neuron.cs" />
+    <Compile Include="Neuron\NeuronFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utils\FunctionHelper.cs" />
+    <Compile Include="Utils\IDataPattern.cs" />
+    <Compile Include="Utils\IFunctionHelper.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
